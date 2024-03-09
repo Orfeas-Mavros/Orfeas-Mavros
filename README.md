@@ -73,12 +73,8 @@ Ok, that's it.<br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-... WAIT!<br>
+... WAIT!
 
 <br>
 
@@ -88,23 +84,6 @@ Ok, that's it.<br>
 
 # ***Hello, World!***
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 _<sub>I don't like that line</sub>_
