@@ -8,7 +8,8 @@ _<sub>I don't like that line</sub>_
 
 We Live-Laugh-Adore LeetCode:
 
-https://leetcard.jacoblin.cool/Orfeas-Mavros?ext=heatmap
+[Leetcode](https://leetcard.jacoblin.cool/Orfeas-Mavros?ext=heatmap)
 
+<br>
 
 - [x] Made Profile README
