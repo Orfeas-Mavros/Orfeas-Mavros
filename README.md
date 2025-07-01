@@ -11,8 +11,6 @@ We Live-Laugh-Adore LeetCode:
 
 Number go up:
 
-<!--START_SECTION:wakastats-->
-<!--END_SECTION:wakastats-->
 
 <br>
 
