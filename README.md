@@ -13,7 +13,7 @@ We Live-Laugh-Adore LeetCode:
 
 Number go up:
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=OrfeasMavros&theme=transparent)](https://github.com/Orfeas-Mavros)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Orfeas-Mavros&langs_count=8&theme=transparent)
 
 <br>
 
